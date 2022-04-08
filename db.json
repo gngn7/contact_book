@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstname": "Octave",
+      "lastname": "Raimbault",
+      "address": "1 rue de la paix 75001 Paris",
+      "phone": "0123456789",
+      "email": "blabla@gmail.com",
+      "birthday": "01/01/2000"
+    },
+    {
+      "firstname": "John",
+      "lastname": "Doe",
+      "address": "22 rue de la paix 75001 Paris",
+      "phone": "2209876543",
+      "email": "bla@gmail.com",
+      "birthday": "01/01/2002",
+      "id": 2
+    },
+    {
+      "firstname": "John",
+      "lastname": "Doe",
+      "address": "123 Main St",
+      "phone": "555-555-5555",
+      "email": "",
+      "id": 3
+    }
+  ]
+}
